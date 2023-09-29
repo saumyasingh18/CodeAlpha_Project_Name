@@ -1,0 +1,39 @@
+[
+    {
+        "question": "what is the captial of india?",
+        "options": [
+            "mumbai",
+            "delhi",
+            "lucknow",
+            "agra"
+        ]
+    },
+    {
+        "question": "who is the prime minister of india?",
+        "options": [
+            "dropadi murmu",
+            "narendra modi",
+            "rahul gandhi",
+            "amitab bachan"
+        ]
+    },
+    {
+        "question": "who is the precident of india?",
+        "options": [
+            "dropadi murmu",
+            "rahul gandhi",
+            "narendra modi", 
+            "amitab bachan"
+        ]
+    },
+
+    {
+        "question": "What is the full form of OOPS?",
+        "options": [
+            "Object open program",
+            "Object oriented Programming",
+            "Open object programming",
+            "Open orientation program"
+        ]
+    }
+]
