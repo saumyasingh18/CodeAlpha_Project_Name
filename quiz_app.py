@@ -1,3 +1,8 @@
+#TASK 2- Quiz application
+#Date- 10/09/2023
+#Programmer- Saumya singh(saumyasingh635@gmail.com)
+
+
 from tkinter import *
 from tkinter import messagebox
 from tkinter import filedialog
